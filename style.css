@@ -376,7 +376,7 @@ footer > img{
         margin: 5px 0;
     }
 }
-@media screen and (max-width:375px) {
+@media screen and (max-width:415px) {
     /*Header*/
     header{
         height: 750px;
